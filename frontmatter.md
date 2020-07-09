@@ -69,4 +69,7 @@ The command line (of computers today) receives these commands as text that is ty
 ## Acknowledgements
 
 - Current Author: Stefano Morello
-- Contributing Authors: Kelsey Chatlosh, Patrick Smyth, Mary Catherine McKinniburgh, Jojo Karlin
+- Contributing Author: Kelsey Chatlosh
+- Contributing Author: Patrick Smyth
+- Contributing Author: Mary Catherine McKinniburgh
+- Contributing Author: Jojo Karlin
